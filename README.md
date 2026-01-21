@@ -25,9 +25,8 @@ Le site contient :
 ---
 
 ## Technologies utilisées
-- **HTML5** – Structure des pages  
+- **HTML** – Structure des pages  
 - **CSS3** – Design et mise en page  
-- **Formspree** – Envoi du formulaire de contact sans serveur  
 
 ---
 
